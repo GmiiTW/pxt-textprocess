@@ -1,0 +1,14 @@
+{
+    "name": "textprocess",
+    "version": "1.0.0",
+    "description": "Extension for text process",
+    "license": "MIT",
+    "dependencies": {},
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/en/textprocess-strings.json",
+        "_locales/zh/textprocess-strings.json"
+    ],
+    "public": true
+}

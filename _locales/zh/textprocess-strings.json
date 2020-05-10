@@ -1,0 +1,5 @@
+{
+  "{id:category}Textprocess": "TextProcess",
+  "textprocess.encode|block": "編碼 $str",
+  "textprocess.decode|block": "解碼 $buf"
+}
